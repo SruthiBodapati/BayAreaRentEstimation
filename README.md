@@ -1,2 +1,6 @@
 # BayAreaRentEstimation
- 
+
+The real estate market is something that every person living in the country has to deal with, and as a result it makes a great topic about data analytics. The housing price or rental price in San Francisco Bay Area accelerating at shocking rates. From 2010 to 2017, the median price of a single family home in San Francisco has gone from approximately &775,000 to $1.5 million. 
+
+Gathered data or text information about the real estate market in San Francisco Bay Area. The location covers Fremont and Oakland. The data may include but not limited to: property data (type, size, bedroom/bathroom), price data (current listing price, and or historical selling price), address, city/state/zipcode, safety/security (crime rate in neighborhood), agent information (name, company website, and so on), Reviews (review of the property, review of the agent).Collected information on 600 distinct properties or more from my search. The raw data types may include string, float, integer and so on. There are so many types of data available, customized based on the research questions that we analyzed on the availabile data source. Properly handled the missing data, outliers, incorrect record, redundant record, data type constraints,performed web scraping, Application Program Interface (API) data collection, data wrangling, visualization, data type and structure, and computational and quantitative methods.
+
